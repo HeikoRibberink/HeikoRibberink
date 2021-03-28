@@ -4,7 +4,7 @@ I like machine learning, game development and computer science, preferably with 
 
 I am currently developing a local coop puzzel platforming game in unity, and I am learning win32 with C.
 
-Because of anonymity, I am not currently unreachable.
+Because of privacy reasons, I am not currently reachable.
 
 <!---
 HeikoRibberink/HeikoRibberink is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
