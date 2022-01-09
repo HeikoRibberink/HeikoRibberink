@@ -1,10 +1,22 @@
-Hello, I'm Heiko Ribberink, and am known in some places as blijde_broers.
+# Hi! 👋
 
-I like machine learning, game development and computer science, preferably with friends.
+I am an enthousiastic high school student, doing programming as a hobby.
 
-I am currently developing a local coop puzzel platforming game in unity, and I am learning win32 with C.
+I have experience programming in the following (as a hobbyist, so the times specified are not really representative):
 
-Because of privacy reasons, I am not currently reachable.
+- Languages (in order of experience):
+  - Java (have used for 4 years)
+  - Rust (6 months)
+  - Python (2 years)
+  - C (1 year)
+- Tools:
+  - Vim (2 years)
+  - Git (2 years)
+
+I am currently learning:
+- Robotics with Raspberry Pi
+
+VSCode (with the Vim extension) is my favourite IDE.
 
 <!---
 HeikoRibberink/HeikoRibberink is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
