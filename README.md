@@ -11,7 +11,7 @@ I have experience programming in the following (as a hobbyist, so the times spec
   - 💻 C (1 year)
 - 🧰 Tools:
   - ⌨️ Vim (2 years)
-  - :octocat: Git (2 years)
+  - :octocat: Git (3 years)
 
 I am currently learning:
 - 🍓 Robotics with Raspberry Pi
