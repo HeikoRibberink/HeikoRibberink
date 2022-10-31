@@ -6,7 +6,7 @@ I have experience programming in the following (as a hobbyist, so the times spec
 
 - 🔤 Languages (in descending order of experience):
   - ☕ Java (have used for 4 years)
-  - ⚙️ Rust (6 months)
+  - ⚙️ Rust (1 year)
   - 🐍 Python (2 years)
   - 💻 C (1 year)
 - 🧰 Tools:
@@ -14,6 +14,7 @@ I have experience programming in the following (as a hobbyist, so the times spec
   - :octocat: Git (3 years)
 
 I am currently learning:
+- 🎮 Game programming in Bevy
 - 🍓 Robotics with Raspberry Pi
 - 👨‍🏫 Teaching the basics of programming to beginners.
 <!---
