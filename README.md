@@ -21,7 +21,7 @@ I have experience programming in the following:
 - 🧰 Tools:
   - ⌨️ Vim (3 years)
   - :octocat: Git (4 years)
-  - \>_ Nushell
+  - /_ Nushell
 
 I am currently learning:
 - 🎮 Game programming in Bevy
