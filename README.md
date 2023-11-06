@@ -1,17 +1,27 @@
 # Hi! 👋
 
-I am an enthousiastic high school student, doing programming as a hobby.
+I am an enthousiastic Computer Science student at the University of Leiden.
 
-I have experience programming in the following (as a hobbyist, so the times specified are not really representative):
+I have experience programming in the following:
 
 - 🔤 Languages (in descending order of experience):
-  - ☕ Java (have used for 4 years)
-  - ⚙️ Rust (1 year)
+  - ⚙️ Rust (3 years)
+    - Full-stack web development with Leptos
+    - Embedded development on Raspberry Pi
+    - Web scraping
   - 🐍 Python (2 years)
+    - Full-stack web development with Flask
+    - Discord bot development
+  - ☕ Java (4 years)
+    - My first programming language
+  - 🦶🔫 C++ (1 year)
+    - CUDA GPU programming
   - 💻 C (1 year)
+  
 - 🧰 Tools:
-  - ⌨️ Vim (2 years)
-  - :octocat: Git (3 years)
+  - ⌨️ Vim (3 years)
+  - :octocat: Git (4 years)
+  - >_ Nushell
 
 I am currently learning:
 - 🎮 Game programming in Bevy
